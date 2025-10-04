@@ -1,2 +1,3 @@
 Ovde se nalazi README fajl.
-# Ovo je izmenjeno na feacure-branch-2 grani.
+# ovo je izmenjeno na granama feature-branch-2 i feature-branch-3.
+
